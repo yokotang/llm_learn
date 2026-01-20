@@ -1,0 +1,13 @@
+import queue
+# q=queue.Queue()
+# q=queue.LifoQueue()
+q=queue.PriorityQueue()
+# q.put(1)
+# q.put(2)
+# q.put(3)
+q.put((3,'Low priority'))
+q.put((1,'High priority'))
+q.put((2,'Medium priority'))
+print(q.get())
+print(q.get())
+print(q.get())
