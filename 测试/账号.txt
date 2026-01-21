@@ -1,0 +1,8 @@
+总部账户admin 密码ulike123 商家账号nuodinghan 密码123456 sit环境removalhair.jianbai.net uat环境uat.jianbai.net
+脱毛吧后端管理系统
+基础服务
+ulike-hrm-foundation
+hrm-front登录账号：
+admin/ulike@2025
+新测试地址
+http://8.136.1.130/customer/login?isForce=true
